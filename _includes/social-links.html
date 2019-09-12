@@ -35,6 +35,12 @@
         </a>
     {% endif %}
 
+    {% if site.jianshu %}
+        <a class="link" data-title="jianshu.com/u/{{ site.jianshu }}" href="http://jianshu.com/u/{{ site.linkedin }}" target="_blank">
+            <svg class="icon icon-jianshu"><use xlink:href="#icon-jianshu"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.youtube %}
         <a class="link" data-title="youtube.com/{{ site.youtube }}" href="http://youtube.com/{{ site.youtube }}" target="_blank">
             <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
