@@ -8,13 +8,13 @@ description: A blog about technology, psychology and cognitology related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile2.jpg
+picture: assets/images/profile001.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://www.jianshu.com/u/1c306ebb3964
+# resume: true
+# resume-external: true
+# resume-url: https://www.jianshu.com/u/1c306ebb3964
 
 url: https://walkmao.top
 # your url: http://USERNAME.github.io
@@ -47,7 +47,8 @@ github: Walkmao
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 jianshu: 1c306ebb3964
-quora: Walkmao
+zhihu: mao-you-21/activities
+# quora: Walkmao
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
