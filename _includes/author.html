@@ -1,11 +1,11 @@
 <section class="author{% if site.disqus == false %} no-disqus{% endif %}">
     <div class="toleft">
-        <img class="selfie" src="{% if site.authors[walkmao].external-image == true %}{{ site.authors[walkmao].picture }}{% else %}{{ site.url }}/{{ site.authors[walkmao].picture }}{% endif %}" alt="{{ site.authors[walkmao].name }}">
+        <img class="selfie" src="{% if site.authors.external-image == true %}{{ site.authors.picture }}{% else %}{{ site.url }}/{{ site.authors.picture }}{% endif %}" alt="{{ site.authors.name }}">
     </div>
 
     <div class="toright">
-        <h4 class="name">{{ site.authors[page.author].name }}</h4>
-        <p class="bio">{{ site.authors[page.author].bio }}</p>
+        <h4 class="name">{{ site.authors.name }}</h4>
+        <p class="bio">{{ site.authors.bio }}</p>
 
         <div class="share">
             <!-- Note: Only use three share links if your site width is set to large -->
