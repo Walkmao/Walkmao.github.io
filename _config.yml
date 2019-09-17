@@ -55,13 +55,13 @@ zhihu: mao-you-21/activities
 # lanyrd: mylanyrd
 email: mircomao@163.com
 
-# authors:
-#     walkmao:
-#         name: Walk Mao
-#         bio: A cat cuddler who loves to read and share.
-#         external-image: false
-#         picture: assets/images/profile.jpg
-#         linkedin: in/伟凯-毛-8b5a37124/
+authors:
+    walkmao:
+        name: Walk Mao
+        bio: A cat cuddler who loves to read and share.
+        external-image: false
+        picture: assets/images/profile1.jpg
+        linkedin: in/伟凯-毛-8b5a37124/
     # jamesfoster:
     #     name: James Foster
     #     bio: A Man who develops software with coffee
