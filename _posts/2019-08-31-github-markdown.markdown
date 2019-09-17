@@ -96,7 +96,7 @@ description: Markdown summary with different options
 
 对应显示：
 
-`print "hello world"`
+` print "hello world"`
 
 
 - **链接**
