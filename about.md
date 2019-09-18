@@ -23,8 +23,8 @@ layout: page
 
 <p>
 	本篇博客是我在工作闲暇之时搭建的，一直希望自己能拥有一个自己的博客以专注和积累自己的写作轨迹，同时也能与同好之人分享与交流。奈何自己对于博客搭建一直存在诸多误区，且告诫自己不能只是追求形式而忽略创作，故迟迟没有开始。
-
-	恰巧看到阳志平老师的一篇关于写作博客的文章又一次心血来潮，决定用最快时间和最小成本完成搁置已久的想法。
+	<br>
+	恰巧看到阳志平老师的一篇关于写作博客的文章又一次心血来潮，决定用最快时间和最小成本完成搁置已久的想法。<br>
 
 	由于对于前端以及开发技术不是很熟练，所以在搭建过程中看了将近几十篇的博客和技术文档，所以也要感谢无私奉献的博主和技术大咖们。同时自己也会详实记录自己搭建个人博客路上的“一些坑”和“血泪史”，希望能够给所有看到这篇博客的朋友些许帮助，吾心甚慰矣。
 </p>
@@ -55,4 +55,5 @@ layout: page
 	<li><a href="https://www.jianshu.com/u/1c306ebb3964">简书【厉害了喵】</a></li>
 </ul>
 
-<img class="image" src="{{ site.url }}/{{ site.picture1 }}" alt="Alt Text"><figcaption class="caption">每天多一点</figcaption>
+<img class="image" src="{{ site.url }}/{{ site.picture1 }}" alt="Alt Text">
+<figcaption class="caption">每天多一点</figcaption>
