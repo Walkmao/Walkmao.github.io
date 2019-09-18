@@ -6,11 +6,10 @@ layout: page
 <h2>1.个人简介</h2>
 
 <p>
-	![Profile Image]({{ site.url }}/{{ site.picture }})
+	<img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text"><figcaption class="caption">厉害了喵</figcaption>
 
-	厉害了喵，阅读者，斜杠青年，专注自我成长实践，终生学习，简说live创始人。坚持300天晨间写作，个人公众号：每天多一点。
+	阅读者，斜杠青年，数据分析师，专注自我成长实践，终生学习，爱阅读爱思考爱分享。坚持300天连续不间断晨间写作，个人公众号：每天多一点。
 </p>
-
 
 <h2>2.写作初心</h2>
 <p>
@@ -55,5 +54,4 @@ layout: page
 	<li><a href="https://www.jianshu.com/u/1c306ebb3964">简书【厉害了喵】</a></li>
 </ul>
 
-<img class="image" src="{{ site.url }}/{{ site.picture1 }}" alt="Alt Text">
-<figcaption class="caption">Photo by John Doe</figcaption>
+<img class="image" src="{{ site.url }}/{{ site.picture1 }}" alt="Alt Text"><figcaption class="caption">每天多一点</figcaption>

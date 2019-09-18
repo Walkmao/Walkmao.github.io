@@ -1,6 +1,6 @@
 # main text of home
-name: 厉害了喵
-bio: A cat cuddler who loves to read and share.
+name: Walkmao
+bio: A lifelong learner who loves reading and writing.
 
 # twitter summary info
 description: A blog about technology, psychology and cognitology related
@@ -40,7 +40,6 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: in/伟凯-毛-8b5a37124/
 # youtube: myyoutube
 # spotify: myspotify
 github: Walkmao
@@ -54,11 +53,12 @@ zhihu: mao-you-21/activities
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+linkedin: in/伟凯-毛-8b5a37124/
 email: mircomao@163.com
 
 authors:
     name: Walk Mao
-    bio: A cat cuddler who loves to read and share.
+    bio: A lifelong learner who loves reading and writing.
     external-image: false
     picture: assets/images/profile1.jpg
     linkedin: in/伟凯-毛-8b5a37124/
@@ -79,7 +79,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
