@@ -8,6 +8,7 @@ layout: page
 <p>
 	<img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text"><figcaption class="caption">厉害了喵</figcaption>
 
+	<br>
 	阅读者，斜杠青年，数据分析师，专注自我成长实践，终生学习，爱阅读爱思考爱分享。坚持300天连续不间断晨间写作，个人公众号：每天多一点。
 </p>
 
